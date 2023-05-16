@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    }
+
+#header{
+    background-color: lightsalmon;
+    padding: 20px;
+    text-align: center;
+}
+
+#content{
+    background-color: bisque;
+}
+
+#content{
+    padding: 20px;
+    text-align: center;
+}
+
+#form{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+#submit{
+    border-color:black ;
+    font-size: 20px;
+    width: 150px;
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+
+#submit:hover{
+    background-color: salmon;
+}
+
+.visitor{
+    padding: 20px;
+    text-align: right;
+}
+
+#footer{
+    background-color: lightsalmon;
+    padding: 20px;
+    text-align: center;
+}

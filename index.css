@@ -45,3 +45,22 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+.button
+{
+    text-align: center;
+    padding: 30px;
+}
+
+#closeButton 
+{
+    background-color: lightsalmon;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+}
+
+#closeButton:hover 
+{
+    background-color: bisque;
+}

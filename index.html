@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Chinese Name Generator</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    </head>
+
+    <body>
+        <div id ="header">
+            <h1>Chinese Name Generator</h1>
+            <h1>中文名字生成器</h1>
+        </div>
+        <div id="content">
+            <h2>The system will automatically 
+                generate Chinese names 
+                in a randomized manner based on your preferences.
+            <p>
+                系统将根据您的条件自动随机生成中文名字组合。   
+            </h2>
+        </div>
+    
+    <div id="form">
+    <form>
+        <h3>Please enter the information below: 
+        <br>请输入有关信息：</h3>
+        <p>Gender 性别</p>
+        <input type="radio" id="radioFemale" name="gender" value="female">Female 女性 
+        <input type="radio" id="radioMale" name="gender" value="male">Male 男性
+        <p>
+        <input type="button" name="btn" value="Generate" onclick="checkGender()">
+
+    </form>
+    </div>
+
+    <script type="text/javascript">
+        function checkGender(){				
+            if(document.getElementById('radioMale').checked)
+            {
+                alert("Gender selected: Male.");
+                window.open("male.html");
+            }
+            else
+            {
+                alert("Gender selected: Female.");
+                window.open("female.html");
+            }
+        }
+     </script>
+    
+    <div class="visitor">
+        <a href='https://www.free-counters.org/'>free Hit Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=b4a7696d143f0eeefccbd8a5415a65f6fff15d43'></script>
+        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1030267/t/2"></script>
+        <p></p>
+    </div>
+
+    <div id="footer">
+    <p>copyright by Leong Chee Yan @ 2023</p>
+    </div>
+    </body>
+</html>

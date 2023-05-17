@@ -5,9 +5,15 @@
                 alert("Gender selected: Male.");
                 window.open("male.html");
             }
-            else
+            else if(document.getElementById('radioFemale').checked)
             {
                 alert("Gender selected: Female.");
                 window.open("female.html");
             }
+
+            else
+            {
+                alert("Nothing has been selected");
+            }
+            
         }

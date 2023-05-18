@@ -20,6 +20,7 @@ body {
 #form{
     padding-left: 50px;
     padding-top: 10px;
+    font-size: 17px;
 }
 
 #submit{
@@ -130,7 +131,7 @@ a:link {
   
   td, th {
     border: 1px solid rgb(252, 206, 201);
-    text-align: left;
+    text-align: center;
     padding: 20px;
     width: 100px;
   }
@@ -138,3 +139,12 @@ a:link {
   tr:nth-child(even) {
     background-color: rgb(247, 214, 200);
   }
+
+  .border
+  {
+    border: solid lightsalmon 1px;
+      text-align: center;
+      padding: 20px;
+      margin: 20px;
+  }
+  

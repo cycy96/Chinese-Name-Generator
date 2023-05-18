@@ -11,6 +11,12 @@
                 window.open("female.html");
             }
 
+            else if(document.getElementById('radioSiblings').checked)
+            {
+                alert("Option selected: Siblings.");
+                window.open("siblings.html");
+            }
+
             else
             {
                 alert("Nothing has been selected");

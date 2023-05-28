@@ -5,9 +5,9 @@ This Chinese Name Generator generates over 100 Chinese names, providing users wi
 HTML, CSS and JavaScript
 
 # User Interface (UI)
-- Home page 
 
-![interface1](https://github.com/cycy96/Chinese-Name-Generator/assets/127811480/2e0e7294-f9a0-4f23-9fcd-297806f334fb)
+![CNGUI](https://github.com/cycy96/Chinese-Name-Generator/assets/127811480/0f6934e7-0fd2-4bf5-b08f-c1b588d07297)
+
 
 # Live Example
 To view a live example, follow this link: https://cycy96.github.io/Chinese-Name-Generator/

@@ -10,4 +10,4 @@ HTML, CSS and JavaScript
 
 
 # Live Example
-To view a live example, follow this link: https://cycy96.github.io/Chinese-Name-Generator/
+To view a live example, follow this link: https://chinese-name-generator.vercel.app/

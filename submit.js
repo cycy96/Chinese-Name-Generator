@@ -1,7 +1,3 @@
-import { inject } from '@vercel/analytics';
- 
-inject();
-
         function checkGender(){				
             if(document.getElementById('radioMale').checked)
             {

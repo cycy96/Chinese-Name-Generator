@@ -18,4 +18,5 @@ This is a front-end project to demonstrate my HTML, CSS and JavaScript knowledge
 
 # Author
 Leong Chee Yan
+<br>
 https://github.com/cycy96

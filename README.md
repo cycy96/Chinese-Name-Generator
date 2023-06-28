@@ -15,3 +15,7 @@ To view a live example, follow this link: https://chinese-name-generator.vercel.
 
 # Message to share
 This is a front-end project to demonstrate my HTML, CSS and JavaScript knowledge.
+
+# Author
+Leong Chee Yan
+https://github.com/cycy96
